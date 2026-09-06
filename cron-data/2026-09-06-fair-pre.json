@@ -1,0 +1,79 @@
+{
+  "date": "2026-09-06",
+  "captures": [
+    {
+      "captured_at": "2026-09-06T14:36:57.031Z",
+      "ligas": [
+        "LCK",
+        "LPL"
+      ],
+      "fair_lines": [
+        {
+          "league": "LPL",
+          "league_id": "98767991314006698",
+          "event_id": "117155436343202178",
+          "start_time": "2026-09-06T06:00:00Z",
+          "team_a": "WE",
+          "team_b": "IG",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        },
+        {
+          "league": "LPL",
+          "league_id": "98767991314006698",
+          "event_id": "117155436343202184",
+          "start_time": "2026-09-06T09:00:00Z",
+          "team_a": "LGD",
+          "team_b": "NIP",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        }
+      ]
+    },
+    {
+      "captured_at": "2026-09-06T14:36:57.764Z",
+      "ligas": [
+        "LEC",
+        "CBLOL"
+      ],
+      "fair_lines": [
+        {
+          "league": "LEC",
+          "league_id": "98767991302996019",
+          "event_id": "115548681803406303",
+          "start_time": "2026-09-06T15:00:00Z",
+          "team_a": "G2",
+          "team_b": "KC",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        },
+        {
+          "league": "CBLOL",
+          "league_id": "98767991332355509",
+          "event_id": "115565671526403057",
+          "start_time": "2026-09-06T16:00:00Z",
+          "team_a": "FUR",
+          "team_b": "RED",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        }
+      ]
+    }
+  ]
+}
