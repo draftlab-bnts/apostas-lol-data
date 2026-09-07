@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-06T14:47:23.336Z",
+  "generated_at": "2026-09-07T17:03:49.944Z",
   "source": "híbrido: results.json (majors) + Supabase (LFL + picks completos por game_id)",
   "range": [
     "2026-04-08",
-    "2026-09-06"
+    "2026-09-07"
   ],
-  "milio_count": 222,
+  "milio_count": 228,
   "games_with_full_picks": 118,
-  "baseline_under_hit_pct": 71.6,
+  "baseline_under_hit_pct": 70.6,
   "by_league": {
-    "LPL": 83,
+    "LPL": 86,
     "LCK": 58,
-    "LEC": 30,
+    "LEC": 31,
     "CBLOL": 24,
-    "LCS": 23,
+    "LCS": 25,
     "LFL": 4
   },
   "flags": {
@@ -6527,6 +6527,156 @@
       "fair_source": "formula(team+team)/2",
       "trigger": "1peel+flex",
       "game_id": "117030752644841632",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-06",
+      "league": "LPL",
+      "map": 2,
+      "team_blue": "WE",
+      "team_red": "IG",
+      "milio_side": "blue",
+      "milio_team": "WE",
+      "opp_team": "IG",
+      "opp_sup": "Rakan",
+      "sup_blue": "Milio",
+      "sup_red": "Rakan",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Rakan"
+      },
+      "total_kills": 23,
+      "fair": 31.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "1peel+flex",
+      "game_id": "117155436343202180",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-06",
+      "league": "LPL",
+      "map": 1,
+      "team_blue": "LGD",
+      "team_red": "NIP",
+      "milio_side": "blue",
+      "milio_team": "LGD",
+      "opp_team": "NIP",
+      "opp_sup": "Seraphine",
+      "sup_blue": "Milio",
+      "sup_red": "Seraphine",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Seraphine"
+      },
+      "total_kills": 36,
+      "fair": 27.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "117155436343202185",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-06",
+      "league": "LEC",
+      "map": 2,
+      "team_blue": "G2",
+      "team_red": "KC",
+      "milio_side": "red",
+      "milio_team": "KC",
+      "opp_team": "G2",
+      "opp_sup": "Lulu",
+      "sup_blue": "Lulu",
+      "sup_red": "Milio",
+      "blue_picks": {
+        "support": "Lulu"
+      },
+      "red_picks": {
+        "support": "Milio"
+      },
+      "total_kills": 36,
+      "fair": 27.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115548681803406305",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-06",
+      "league": "LCS",
+      "map": 1,
+      "team_blue": "SR",
+      "team_red": "FLY",
+      "milio_side": "blue",
+      "milio_team": "SR",
+      "opp_team": "FLY",
+      "opp_sup": "Karma",
+      "sup_blue": "Milio",
+      "sup_red": "Karma",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Karma"
+      },
+      "total_kills": 29,
+      "fair": 26.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115564797164345556",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-06",
+      "league": "LCS",
+      "map": 2,
+      "team_blue": "LYON",
+      "team_red": "DSG",
+      "milio_side": "blue",
+      "milio_team": "LYON",
+      "opp_team": "DSG",
+      "opp_sup": "Rakan",
+      "sup_blue": "Milio",
+      "sup_red": "Rakan",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Rakan"
+      },
+      "total_kills": 36,
+      "fair": 25.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "1peel+flex",
+      "game_id": "115564797163886789",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-07",
+      "league": "LPL",
+      "map": 2,
+      "team_blue": "AL",
+      "team_red": "BLG",
+      "milio_side": "blue",
+      "milio_team": "AL",
+      "opp_team": "BLG",
+      "opp_sup": "Lulu",
+      "sup_blue": "Milio",
+      "sup_red": "Lulu",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Lulu"
+      },
+      "total_kills": 19,
+      "fair": 29.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "117155436343202174",
       "src": "results.json"
     }
   ]
