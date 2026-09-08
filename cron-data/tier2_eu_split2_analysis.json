@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:14:31.948Z",
+  "generated_at": "2026-09-08T15:59:58.395Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,12 +16,12 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1280,
+    "games_analyzed": 1287,
     "2peel": {
-      "n": 241,
-      "hit": 43.6,
-      "profit": -4675,
-      "roi": -19.4,
+      "n": 243,
+      "hit": 44,
+      "profit": -4505,
+      "roi": -18.5,
       "breakeven": 54.1
     },
     "1peel+flex": {
@@ -32,10 +32,10 @@
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 376,
-      "hit": 45.5,
-      "profit": -5965,
-      "roi": -15.9,
+      "n": 378,
+      "hit": 45.8,
+      "profit": -5795,
+      "roi": -15.3,
       "breakeven": 54.1
     }
   },
@@ -89,12 +89,12 @@
       }
     },
     "NLC": {
-      "total_games": 132,
+      "total_games": 135,
       "2peel": {
-        "n": 25,
-        "hit": 44,
-        "profit": -465,
-        "roi": -18.6,
+        "n": 27,
+        "hit": 48.1,
+        "profit": -295,
+        "roi": -10.9,
         "breakeven": 54.1
       },
       "1peel+flex": {
@@ -105,10 +105,10 @@
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 32,
-        "hit": 40.6,
-        "profit": -795,
-        "roi": -24.8,
+        "n": 34,
+        "hit": 44.1,
+        "profit": -625,
+        "roi": -18.4,
         "breakeven": 54.1
       }
     },
@@ -209,7 +209,7 @@
       }
     },
     "Liga Portuguesa": {
-      "total_games": 102,
+      "total_games": 106,
       "2peel": {
         "n": 18,
         "hit": 33.3,

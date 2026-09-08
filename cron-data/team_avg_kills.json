@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-07T17:03:48.097Z",
+  "generated_at": "2026-09-08T15:50:57.667Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -100,16 +100,16 @@
       "n_games": 59
     },
     "LGD GAMING": {
-      "avg_kills": 26.36,
-      "n_games": 77
+      "avg_kills": 26.48,
+      "n_games": 80
     },
     "Weibo": {
       "avg_kills": 26.82,
       "n_games": 55
     },
     "IG": {
-      "avg_kills": 30.67,
-      "n_games": 64
+      "avg_kills": 30.61,
+      "n_games": 67
     },
     "THUNDER TALK GAMING": {
       "avg_kills": 30.1,
