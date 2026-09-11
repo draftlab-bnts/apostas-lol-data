@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-10T15:46:05.743Z",
+  "generated_at": "2026-09-11T15:49:39.734Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,26 +16,26 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1312,
+    "games_analyzed": 1325,
     "2peel": {
-      "n": 250,
-      "hit": 43.6,
-      "profit": -4835,
-      "roi": -19.3,
+      "n": 253,
+      "hit": 44.3,
+      "profit": -4580,
+      "roi": -18.1,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 139,
-      "hit": 48.9,
-      "profit": -1320,
-      "roi": -9.5,
+      "n": 141,
+      "hit": 49.6,
+      "profit": -1150,
+      "roi": -8.2,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 389,
-      "hit": 45.5,
-      "profit": -6155,
-      "roi": -15.8,
+      "n": 394,
+      "hit": 46.2,
+      "profit": -5730,
+      "roi": -14.5,
       "breakeven": 54.1
     }
   },
@@ -185,36 +185,36 @@
       }
     },
     "LIT": {
-      "total_games": 107,
+      "total_games": 112,
       "2peel": {
-        "n": 13,
-        "hit": 61.5,
-        "profit": 180,
-        "roi": 13.8,
+        "n": 14,
+        "hit": 64.3,
+        "profit": 265,
+        "roi": 18.9,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 8,
-        "hit": 62.5,
-        "profit": 125,
-        "roi": 15.6,
+        "n": 9,
+        "hit": 66.7,
+        "profit": 210,
+        "roi": 23.3,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 21,
-        "hit": 61.9,
-        "profit": 305,
-        "roi": 14.5,
+        "n": 23,
+        "hit": 65.2,
+        "profit": 475,
+        "roi": 20.7,
         "breakeven": 54.1
       }
     },
     "Liga Portuguesa": {
-      "total_games": 109,
+      "total_games": 113,
       "2peel": {
-        "n": 19,
-        "hit": 31.6,
-        "profit": -790,
-        "roi": -41.6,
+        "n": 20,
+        "hit": 35,
+        "profit": -705,
+        "roi": -35.2,
         "breakeven": 54.1
       },
       "1peel+flex": {
@@ -225,34 +225,34 @@
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 30,
-        "hit": 43.3,
-        "profit": -595,
-        "roi": -19.8,
+        "n": 31,
+        "hit": 45.2,
+        "profit": -510,
+        "roi": -16.5,
         "breakeven": 54.1
       }
     },
     "Rift Legends": {
-      "total_games": 146,
+      "total_games": 150,
       "2peel": {
-        "n": 41,
-        "hit": 34.1,
-        "profit": -1510,
-        "roi": -36.8,
+        "n": 42,
+        "hit": 35.7,
+        "profit": -1425,
+        "roi": -33.9,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 17,
-        "hit": 35.3,
-        "profit": -590,
-        "roi": -34.7,
+        "n": 18,
+        "hit": 38.9,
+        "profit": -505,
+        "roi": -28.1,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 58,
-        "hit": 34.5,
-        "profit": -2100,
-        "roi": -36.2,
+        "n": 60,
+        "hit": 36.7,
+        "profit": -1930,
+        "roi": -32.2,
         "breakeven": 54.1
       }
     }
