@@ -11,7 +11,7 @@
 
 1. Supabase Dashboard → `https://supabase.com/dashboard/project/yxhpopkxlupdpqkdaffg/settings/api` → Reset/regenerar a JWT `service_role`
 2. Atualizar em 3 lugares:
-   - GitHub → `https://github.com/gelatin-es2/apostas-lol-data/settings/secrets/actions` → secret `SUPABASE_SECRET_KEY`
+   - GitHub → `https://github.com/draftlab-bnts/apostas-lol-data/settings/secrets/actions` → secret `SUPABASE_SECRET_KEY`
    - Vercel (dashboard `apostas-lol-dashboard`) → env vars
    - Local: `.claude/settings.local.json`
 3. Validar: `gh workflow run daily-cron.yml` (Actions pegando) + `node .claude/scripts/settle-pending-bets.cjs --dry-run` (local pegando)

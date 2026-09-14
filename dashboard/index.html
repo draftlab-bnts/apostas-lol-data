@@ -4446,7 +4446,7 @@
     // LFL/LES já foram absorvidas nativamente por dashboard_stats.json (cron diário) — a
     // mescla duplicava LFL e LES com hit% contraditório. LIT (só existia no tier2) some da
     // lista de propósito: está fora do escopo de ligas operadas (ver knowledge/decisions).
-    const TIER1_STATS_URL = 'https://raw.githubusercontent.com/gelatin-es2/apostas-lol-data/main/cron-data/dashboard_stats.json';
+    const TIER1_STATS_URL = 'https://raw.githubusercontent.com/draftlab-bnts/apostas-lol-data/main/cron-data/dashboard_stats.json';
     async function loadMethodByLeague() {
       try {
         const r1 = await fetch(TIER1_STATS_URL + '?v=' + Date.now(), { cache: 'no-store' });

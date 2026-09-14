@@ -110,7 +110,7 @@ Globais (`~/.claude/`) que servem este projeto:
 
 **Configuração Vercel** (definida em 2026-05-07):
 - Project: `apostas-lol-dashboard`
-- Connected Git Repository: `gelatin-es2/apostas-lol-data`
+- Connected Git Repository: `draftlab-bnts/apostas-lol-data`
 - Root Directory: `dashboard/` (crítico — sem isso Vercel tenta buildar raiz)
 - Build Command / Output Dir / Install Command: vazios
 - Framework Preset: Other
@@ -118,7 +118,7 @@ Globais (`~/.claude/`) que servem este projeto:
 
 **3 fontes de dado runtime no HTML (não dependem de redeploy):**
 1. **Supabase** (tracker/bets) — JS no browser fetcha direto via `createClient`. Bet nova no banco aparece no F5 do site.
-2. **raw.githubusercontent.com/gelatin-es2/apostas-lol-data/main/cron-data/*.json** (tabs Método/LFL/ML) — JS fetcha URL **absoluta** (não relativa `../cron-data/`, que dá 404 no Vercel porque root=dashboard).
+2. **raw.githubusercontent.com/draftlab-bnts/apostas-lol-data/main/cron-data/*.json** (tabs Método/LFL/ML) — JS fetcha URL **absoluta** (não relativa `../cron-data/`, que dá 404 no Vercel porque root=dashboard).
 3. Cron diário commita JSONs novos → próximo F5 do navegador pega versão nova.
 
 **Adicionar nova tab no dashboard:** ver `~/.claude/projects/c--Users-Elvis-projects/memory/project_dashboard_deploy.md` pro passo a passo.
