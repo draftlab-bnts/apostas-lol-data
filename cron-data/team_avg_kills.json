@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-13T15:28:27.668Z",
+  "generated_at": "2026-09-14T17:27:05.676Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -148,12 +148,12 @@
       "n_games": 43
     },
     "LOUD": {
-      "avg_kills": 26.67,
-      "n_games": 42
+      "avg_kills": 26.87,
+      "n_games": 46
     },
     "paiN Gaming": {
-      "avg_kills": 26.03,
-      "n_games": 34
+      "avg_kills": 26.34,
+      "n_games": 38
     },
     "Los Grandes": {
       "avg_kills": 27.93,
@@ -184,16 +184,16 @@
       "n_games": 30
     },
     "Sentinels": {
-      "avg_kills": 25.97,
-      "n_games": 38
+      "avg_kills": 26.05,
+      "n_games": 41
     },
     "TL": {
       "avg_kills": 25.18,
       "n_games": 51
     },
     "FlyQuest": {
-      "avg_kills": 27.53,
-      "n_games": 45
+      "avg_kills": 27.5,
+      "n_games": 48
     },
     "Dignitas": {
       "avg_kills": 25.74,
@@ -280,7 +280,7 @@
     "LEC": 14.04,
     "LCK": 14.51,
     "LPL": 14.53,
-    "CBLOL": 13.25,
+    "CBLOL": 13.28,
     "LCS": 13.22,
     "LFL": 16.27,
     "LES": 15.83
