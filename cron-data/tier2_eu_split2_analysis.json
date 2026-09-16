@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-15T16:15:21.384Z",
+  "generated_at": "2026-09-16T15:58:46.435Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,26 +16,26 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1351,
+    "games_analyzed": 1354,
     "2peel": {
-      "n": 262,
-      "hit": 43.9,
-      "profit": -4925,
-      "roi": -18.8,
+      "n": 263,
+      "hit": 43.7,
+      "profit": -5025,
+      "roi": -19.1,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 144,
-      "hit": 48.6,
-      "profit": -1450,
-      "roi": -10.1,
+      "n": 145,
+      "hit": 48.3,
+      "profit": -1550,
+      "roi": -10.7,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 406,
-      "hit": 45.6,
-      "profit": -6375,
-      "roi": -15.7,
+      "n": 408,
+      "hit": 45.3,
+      "profit": -6575,
+      "roi": -16.1,
       "breakeven": 54.1
     }
   },
@@ -161,26 +161,26 @@
       }
     },
     "Hitpoint Masters": {
-      "total_games": 150,
+      "total_games": 153,
       "2peel": {
-        "n": 35,
-        "hit": 17.1,
-        "profit": -2390,
-        "roi": -68.3,
+        "n": 36,
+        "hit": 16.7,
+        "profit": -2490,
+        "roi": -69.2,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 19,
-        "hit": 15.8,
-        "profit": -1345,
-        "roi": -70.8,
+        "n": 20,
+        "hit": 15,
+        "profit": -1445,
+        "roi": -72.3,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 54,
-        "hit": 16.7,
-        "profit": -3735,
-        "roi": -69.2,
+        "n": 56,
+        "hit": 16.1,
+        "profit": -3935,
+        "roi": -70.3,
         "breakeven": 54.1
       }
     },
