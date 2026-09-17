@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:58:46.435Z",
+  "generated_at": "2026-09-17T16:05:43.307Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,26 +16,26 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1354,
+    "games_analyzed": 1362,
     "2peel": {
-      "n": 263,
-      "hit": 43.7,
-      "profit": -5025,
-      "roi": -19.1,
+      "n": 265,
+      "hit": 43.4,
+      "profit": -5225,
+      "roi": -19.7,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 145,
-      "hit": 48.3,
-      "profit": -1550,
-      "roi": -10.7,
+      "n": 146,
+      "hit": 47.9,
+      "profit": -1650,
+      "roi": -11.3,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 408,
-      "hit": 45.3,
-      "profit": -6575,
-      "roi": -16.1,
+      "n": 411,
+      "hit": 45,
+      "profit": -6875,
+      "roi": -16.7,
       "breakeven": 54.1
     }
   },
@@ -89,26 +89,26 @@
       }
     },
     "NLC": {
-      "total_games": 142,
+      "total_games": 146,
       "2peel": {
-        "n": 29,
-        "hit": 44.8,
-        "profit": -495,
-        "roi": -17.1,
+        "n": 30,
+        "hit": 43.3,
+        "profit": -595,
+        "roi": -19.8,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 8,
-        "hit": 37.5,
-        "profit": -245,
-        "roi": -30.6,
+        "n": 9,
+        "hit": 33.3,
+        "profit": -345,
+        "roi": -38.3,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 37,
-        "hit": 43.2,
-        "profit": -740,
-        "roi": -20,
+        "n": 39,
+        "hit": 41,
+        "profit": -940,
+        "roi": -24.1,
         "breakeven": 54.1
       }
     },
@@ -161,12 +161,12 @@
       }
     },
     "Hitpoint Masters": {
-      "total_games": 153,
+      "total_games": 157,
       "2peel": {
-        "n": 36,
-        "hit": 16.7,
-        "profit": -2490,
-        "roi": -69.2,
+        "n": 37,
+        "hit": 16.2,
+        "profit": -2590,
+        "roi": -70,
         "breakeven": 54.1
       },
       "1peel+flex": {
@@ -177,10 +177,10 @@
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 56,
-        "hit": 16.1,
-        "profit": -3935,
-        "roi": -70.3,
+        "n": 57,
+        "hit": 15.8,
+        "profit": -4035,
+        "roi": -70.8,
         "breakeven": 54.1
       }
     },

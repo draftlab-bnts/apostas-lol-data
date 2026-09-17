@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-16T15:52:12.226Z",
+  "generated_at": "2026-09-17T15:59:01.232Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -108,16 +108,16 @@
       "n_games": 55
     },
     "IG": {
-      "avg_kills": 30.43,
-      "n_games": 72
+      "avg_kills": 30.45,
+      "n_games": 76
     },
     "THUNDER TALK GAMING": {
       "avg_kills": 30.1,
       "n_games": 63
     },
     "TES": {
-      "avg_kills": 30.6,
-      "n_games": 83
+      "avg_kills": 30.61,
+      "n_games": 87
     },
     "NIP": {
       "avg_kills": 28.14,
