@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-09-17T15:59:03.402Z",
+  "generated_at": "2026-09-18T15:35:20.880Z",
   "source": "híbrido: results.json (majors) + Supabase (LFL + picks completos por game_id)",
   "range": [
     "2026-04-08",
-    "2026-09-17"
+    "2026-09-18"
   ],
-  "milio_count": 239,
+  "milio_count": 240,
   "games_with_full_picks": 118,
-  "baseline_under_hit_pct": 69,
+  "baseline_under_hit_pct": 69.2,
   "by_league": {
-    "LPL": 90,
+    "LPL": 91,
     "LCK": 60,
     "LEC": 33,
     "CBLOL": 26,
@@ -6952,6 +6952,31 @@
       "fair_source": "formula(team+team)/2",
       "trigger": "2peel",
       "game_id": "116957100120526825",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-18",
+      "league": "LPL",
+      "map": 2,
+      "team_blue": "JDG",
+      "team_red": "WE",
+      "milio_side": "red",
+      "milio_team": "WE",
+      "opp_team": "JDG",
+      "opp_sup": "Lulu",
+      "sup_blue": "Lulu",
+      "sup_red": "Milio",
+      "blue_picks": {
+        "support": "Lulu"
+      },
+      "red_picks": {
+        "support": "Milio"
+      },
+      "total_kills": 13,
+      "fair": 30.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "116957100120526832",
       "src": "results.json"
     }
   ]

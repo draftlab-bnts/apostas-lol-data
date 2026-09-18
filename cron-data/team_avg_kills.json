@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-17T15:59:01.232Z",
+  "generated_at": "2026-09-18T15:35:20.128Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -84,12 +84,12 @@
       "n_games": 78
     },
     "WE": {
-      "avg_kills": 30.53,
-      "n_games": 97
+      "avg_kills": 30.23,
+      "n_games": 101
     },
     "JDG": {
-      "avg_kills": 28.58,
-      "n_games": 90
+      "avg_kills": 28.34,
+      "n_games": 94
     },
     "BLG": {
       "avg_kills": 32.46,
@@ -279,7 +279,7 @@
   "league_avg": {
     "LEC": 14.04,
     "LCK": 14.51,
-    "LPL": 14.53,
+    "LPL": 14.51,
     "CBLOL": 13.28,
     "LCS": 13.22,
     "LFL": 16.27,
