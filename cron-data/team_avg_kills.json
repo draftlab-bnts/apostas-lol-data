@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-18T15:35:20.128Z",
+  "generated_at": "2026-09-19T15:12:27.997Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -20,8 +20,8 @@
       "n_games": 40
     },
     "NAVI": {
-      "avg_kills": 27.32,
-      "n_games": 47
+      "avg_kills": 27.25,
+      "n_games": 51
     },
     "Team Heretics": {
       "avg_kills": 22,
@@ -36,8 +36,8 @@
       "n_games": 63
     },
     "KOI": {
-      "avg_kills": 29.16,
-      "n_games": 56
+      "avg_kills": 28.98,
+      "n_games": 60
     },
     "GIANTX": {
       "avg_kills": 26.88,
@@ -88,8 +88,8 @@
       "n_games": 101
     },
     "JDG": {
-      "avg_kills": 28.34,
-      "n_games": 94
+      "avg_kills": 28.53,
+      "n_games": 98
     },
     "BLG": {
       "avg_kills": 32.46,
@@ -108,8 +108,8 @@
       "n_games": 55
     },
     "IG": {
-      "avg_kills": 30.45,
-      "n_games": 76
+      "avg_kills": 30.57,
+      "n_games": 80
     },
     "THUNDER TALK GAMING": {
       "avg_kills": 30.1,
@@ -184,8 +184,8 @@
       "n_games": 30
     },
     "Sentinels": {
-      "avg_kills": 26.05,
-      "n_games": 41
+      "avg_kills": 25.46,
+      "n_games": 46
     },
     "TL": {
       "avg_kills": 25.18,
@@ -200,8 +200,8 @@
       "n_games": 34
     },
     "Shopify Rebellion": {
-      "avg_kills": 26.64,
-      "n_games": 39
+      "avg_kills": 25.95,
+      "n_games": 44
     },
     "Karmine Corp Blue": {
       "avg_kills": 34.42,
@@ -277,11 +277,11 @@
     }
   },
   "league_avg": {
-    "LEC": 14.04,
+    "LEC": 14.03,
     "LCK": 14.51,
-    "LPL": 14.51,
+    "LPL": 14.52,
     "CBLOL": 13.28,
-    "LCS": 13.22,
+    "LCS": 13.14,
     "LFL": 16.27,
     "LES": 15.83
   }
