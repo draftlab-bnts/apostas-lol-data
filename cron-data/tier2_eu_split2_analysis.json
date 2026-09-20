@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:22:20.267Z",
+  "generated_at": "2026-09-20T15:25:35.029Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,12 +16,12 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1372,
+    "games_analyzed": 1378,
     "2peel": {
-      "n": 267,
-      "hit": 43.1,
-      "profit": -5425,
-      "roi": -20.3,
+      "n": 268,
+      "hit": 43.3,
+      "profit": -5340,
+      "roi": -19.9,
       "breakeven": 54.1
     },
     "1peel+flex": {
@@ -32,10 +32,10 @@
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 415,
-      "hit": 44.6,
-      "profit": -7275,
-      "roi": -17.5,
+      "n": 416,
+      "hit": 44.7,
+      "profit": -7190,
+      "roi": -17.3,
       "breakeven": 54.1
     }
   },
@@ -161,12 +161,12 @@
       }
     },
     "Hitpoint Masters": {
-      "total_games": 162,
+      "total_games": 165,
       "2peel": {
-        "n": 37,
-        "hit": 16.2,
-        "profit": -2590,
-        "roi": -70,
+        "n": 38,
+        "hit": 18.4,
+        "profit": -2505,
+        "roi": -65.9,
         "breakeven": 54.1
       },
       "1peel+flex": {
@@ -177,15 +177,15 @@
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 59,
-        "hit": 15.3,
-        "profit": -4235,
-        "roi": -71.8,
+        "n": 60,
+        "hit": 16.7,
+        "profit": -4150,
+        "roi": -69.2,
         "breakeven": 54.1
       }
     },
     "LIT": {
-      "total_games": 114,
+      "total_games": 117,
       "2peel": {
         "n": 15,
         "hit": 60,
@@ -260,43 +260,43 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
-      "match_date": "2026-04-07",
-      "teams": "FK v BIG",
-      "sups": "Seraphine/Bard",
-      "kills": 29,
+      "match_date": "2026-06-08",
+      "teams": "PXS v RUD",
+      "sups": "Seraphine/Karma",
+      "kills": 33,
+      "trigger": "2peel"
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-08",
+      "teams": "GOAL v GMB",
+      "sups": "Nautilus/Braum",
+      "kills": 24,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-08",
+      "teams": "MCON v OTS",
+      "sups": "Rell/Nautilus",
+      "kills": 34,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-08",
+      "teams": "VER v RUD",
+      "sups": "Bard/Karma",
+      "kills": 37,
       "trigger": "1peel+flex"
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-04-07",
-      "teams": "FK v BIG",
-      "sups": "Rakan/Nami",
-      "kills": 43,
-      "trigger": "1peel+flex"
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-04-07",
-      "teams": "FK v BIG",
-      "sups": "Karma/Lulu",
-      "kills": 21,
-      "trigger": "2peel"
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-04-07",
-      "teams": "MISA v USE",
-      "sups": "Nami/Lulu",
-      "kills": 17,
-      "trigger": "2peel"
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-04-07",
-      "teams": "MISA v USE",
-      "sups": "Karma/Seraphine",
-      "kills": 26,
-      "trigger": "2peel"
+      "match_date": "2026-06-08",
+      "teams": "GOAL v NBS",
+      "sups": "Bard/Nautilus",
+      "kills": 31,
+      "trigger": null
     }
   ]
 }

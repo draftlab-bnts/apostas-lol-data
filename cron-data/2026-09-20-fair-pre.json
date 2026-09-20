@@ -1,0 +1,50 @@
+{
+  "date": "2026-09-20",
+  "captures": [
+    {
+      "captured_at": "2026-09-20T15:05:34.663Z",
+      "ligas": [
+        "LCK",
+        "LPL"
+      ],
+      "fair_lines": []
+    },
+    {
+      "captured_at": "2026-09-20T15:05:35.297Z",
+      "ligas": [
+        "LEC",
+        "CBLOL"
+      ],
+      "fair_lines": [
+        {
+          "league": "LEC",
+          "league_id": "98767991302996019",
+          "event_id": "115548681803406333",
+          "start_time": "2026-09-20T15:00:00Z",
+          "team_a": "MKOI",
+          "team_b": "G2",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        },
+        {
+          "league": "CBLOL",
+          "league_id": "98767991332355509",
+          "event_id": "115565671526468629",
+          "start_time": "2026-09-20T16:00:00Z",
+          "team_a": "RED",
+          "team_b": "PAIN",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        }
+      ]
+    }
+  ]
+}

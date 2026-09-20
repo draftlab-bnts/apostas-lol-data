@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-19T15:12:27.997Z",
+  "generated_at": "2026-09-20T15:15:59.583Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -8,8 +8,8 @@
       "n_games": 35
     },
     "Karmine": {
-      "avg_kills": 28.6,
-      "n_games": 67
+      "avg_kills": 28.57,
+      "n_games": 70
     },
     "Shifters": {
       "avg_kills": 31.3,
@@ -36,8 +36,8 @@
       "n_games": 63
     },
     "KOI": {
-      "avg_kills": 28.98,
-      "n_games": 60
+      "avg_kills": 28.94,
+      "n_games": 63
     },
     "GIANTX": {
       "avg_kills": 26.88,
@@ -144,8 +144,8 @@
       "n_games": 44
     },
     "RED Kalunga": {
-      "avg_kills": 26.51,
-      "n_games": 43
+      "avg_kills": 26.43,
+      "n_games": 46
     },
     "LOUD": {
       "avg_kills": 26.87,
@@ -164,20 +164,20 @@
       "n_games": 27
     },
     "VKS": {
-      "avg_kills": 26.6,
-      "n_games": 42
+      "avg_kills": 26.51,
+      "n_games": 45
     },
     "FURIA": {
       "avg_kills": 26.53,
       "n_games": 47
     },
     "LYON": {
-      "avg_kills": 26.91,
-      "n_games": 44
+      "avg_kills": 26.54,
+      "n_games": 48
     },
     "C9": {
-      "avg_kills": 25.88,
-      "n_games": 49
+      "avg_kills": 25.62,
+      "n_games": 53
     },
     "Disguised": {
       "avg_kills": 28.27,
@@ -280,8 +280,8 @@
     "LEC": 14.03,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.28,
-    "LCS": 13.14,
+    "CBLOL": 13.27,
+    "LCS": 13.1,
     "LFL": 16.27,
     "LES": 15.83
   }
