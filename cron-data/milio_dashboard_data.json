@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-20T15:16:01.367Z",
+  "generated_at": "2026-09-21T17:34:02.729Z",
   "source": "híbrido: results.json (majors) + Supabase (LFL + picks completos por game_id)",
   "range": [
     "2026-04-08",
-    "2026-09-19"
+    "2026-09-20"
   ],
-  "milio_count": 243,
+  "milio_count": 245,
   "games_with_full_picks": 118,
-  "baseline_under_hit_pct": 68.3,
+  "baseline_under_hit_pct": 68.2,
   "by_league": {
     "LPL": 91,
     "LCK": 60,
     "LEC": 34,
-    "CBLOL": 27,
-    "LCS": 27,
+    "CBLOL": 28,
+    "LCS": 28,
     "LFL": 4
   },
   "flags": {
@@ -7052,6 +7052,56 @@
       "fair_source": "formula(team+team)/2",
       "trigger": null,
       "game_id": "115565671526403083",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-20",
+      "league": "CBLOL",
+      "map": 2,
+      "team_blue": "PAIN",
+      "team_red": "RED",
+      "milio_side": "blue",
+      "milio_team": "PAIN",
+      "opp_team": "RED",
+      "opp_sup": "Lulu",
+      "sup_blue": "Milio",
+      "sup_red": "Lulu",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Lulu"
+      },
+      "total_kills": 39,
+      "fair": 24.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115565671526468631",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-20",
+      "league": "LCS",
+      "map": 2,
+      "team_blue": "TLAW",
+      "team_red": "FLY",
+      "milio_side": "blue",
+      "milio_team": "TLAW",
+      "opp_team": "FLY",
+      "opp_sup": "Seraphine",
+      "sup_blue": "Milio",
+      "sup_red": "Seraphine",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Seraphine"
+      },
+      "total_kills": 22,
+      "fair": 24.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115565004607949395",
       "src": "results.json"
     }
   ]

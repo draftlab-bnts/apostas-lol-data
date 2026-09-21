@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-20T15:25:35.029Z",
+  "generated_at": "2026-09-21T17:43:18.145Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -261,41 +261,41 @@
     {
       "league": "EMEA Masters",
       "match_date": "2026-06-08",
-      "teams": "PXS v RUD",
-      "sups": "Seraphine/Karma",
+      "teams": "GOAL v NBS",
+      "sups": "Bard/Nautilus",
+      "kills": 31,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-08",
+      "teams": "MCON v BOOM",
+      "sups": "Bard/Nautilus",
+      "kills": 36,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-09",
+      "teams": "PXS v CKZ",
+      "sups": "Seraphine/Bard",
+      "kills": 33,
+      "trigger": "1peel+flex"
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-09",
+      "teams": "PXS v CKZ",
+      "sups": "Milio/Karma",
       "kills": 33,
       "trigger": "2peel"
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "GOAL v GMB",
-      "sups": "Nautilus/Braum",
-      "kills": 24,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "MCON v OTS",
-      "sups": "Rell/Nautilus",
-      "kills": 34,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "VER v RUD",
-      "sups": "Bard/Karma",
-      "kills": 37,
-      "trigger": "1peel+flex"
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "GOAL v NBS",
-      "sups": "Bard/Nautilus",
-      "kills": 31,
+      "match_date": "2026-06-09",
+      "teams": "GOAL v EWI",
+      "sups": "Bard/Neeko",
+      "kills": 29,
       "trigger": null
     }
   ]
