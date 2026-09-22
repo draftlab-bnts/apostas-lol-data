@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T17:43:18.145Z",
+  "generated_at": "2026-09-22T16:14:23.335Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,51 +16,51 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1378,
+    "games_analyzed": 1397,
     "2peel": {
-      "n": 268,
-      "hit": 43.3,
-      "profit": -5340,
-      "roi": -19.9,
+      "n": 275,
+      "hit": 42.9,
+      "profit": -5670,
+      "roi": -20.6,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 148,
-      "hit": 47.3,
-      "profit": -1850,
-      "roi": -12.5,
+      "n": 152,
+      "hit": 47.4,
+      "profit": -1880,
+      "roi": -12.4,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 416,
-      "hit": 44.7,
-      "profit": -7190,
-      "roi": -17.3,
+      "n": 427,
+      "hit": 44.5,
+      "profit": -7550,
+      "roi": -17.7,
       "breakeven": 54.1
     }
   },
   "by_league": {
     "EMEA Masters": {
-      "total_games": 128,
+      "total_games": 147,
       "2peel": {
-        "n": 27,
-        "hit": 63,
-        "profit": 445,
-        "roi": 16.5,
+        "n": 34,
+        "hit": 55.9,
+        "profit": 115,
+        "roi": 3.4,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 17,
-        "hit": 41.2,
-        "profit": -405,
-        "roi": -23.8,
+        "n": 21,
+        "hit": 42.9,
+        "profit": -435,
+        "roi": -20.7,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 44,
-        "hit": 54.5,
-        "profit": 40,
-        "roi": 0.9,
+        "n": 55,
+        "hit": 50.9,
+        "profit": -320,
+        "roi": -5.8,
         "breakeven": 54.1
       }
     },
@@ -260,42 +260,42 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "GOAL v NBS",
-      "sups": "Bard/Nautilus",
-      "kills": 31,
-      "trigger": null
+      "match_date": "2026-06-10",
+      "teams": "PXS v G2N",
+      "sups": "Milio/Seraphine",
+      "kills": 16,
+      "trigger": "2peel"
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-08",
-      "teams": "MCON v BOOM",
-      "sups": "Bard/Nautilus",
+      "match_date": "2026-06-10",
+      "teams": "PXS v G2N",
+      "sups": "Leona/Nautilus",
       "kills": 36,
       "trigger": null
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-09",
-      "teams": "PXS v CKZ",
-      "sups": "Seraphine/Bard",
-      "kills": 33,
-      "trigger": "1peel+flex"
+      "match_date": "2026-06-10",
+      "teams": "BOOM v SLY",
+      "sups": "Karma/Nautilus",
+      "kills": 41,
+      "trigger": null
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-09",
-      "teams": "PXS v CKZ",
-      "sups": "Milio/Karma",
-      "kills": 33,
-      "trigger": "2peel"
+      "match_date": "2026-06-10",
+      "teams": "BOOM v SLY",
+      "sups": "Rell/Leona",
+      "kills": 45,
+      "trigger": null
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-06-09",
-      "teams": "GOAL v EWI",
-      "sups": "Bard/Neeko",
-      "kills": 29,
+      "match_date": "2026-06-10",
+      "teams": "HRTS v KCB",
+      "sups": "Karma/Alistar",
+      "kills": 30,
       "trigger": null
     }
   ]
