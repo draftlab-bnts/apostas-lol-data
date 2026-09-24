@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-23T15:55:42.530Z",
+  "generated_at": "2026-09-24T16:14:16.751Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -171,14 +171,6 @@
       "avg_kills": 26.53,
       "n_games": 47
     },
-    "LYON": {
-      "avg_kills": 26.54,
-      "n_games": 48
-    },
-    "C9": {
-      "avg_kills": 25.62,
-      "n_games": 53
-    },
     "Disguised": {
       "avg_kills": 28.27,
       "n_games": 30
@@ -202,6 +194,14 @@
     "Shopify Rebellion": {
       "avg_kills": 25.95,
       "n_games": 44
+    },
+    "LYON": {
+      "avg_kills": 26.54,
+      "n_games": 48
+    },
+    "C9": {
+      "avg_kills": 25.62,
+      "n_games": 53
     },
     "Karmine Corp Blue": {
       "avg_kills": 34.42,
