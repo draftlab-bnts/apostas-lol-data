@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:28:00.646Z",
+  "generated_at": "2026-09-26T15:35:07.237Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -261,22 +261,6 @@
     {
       "league": "EMEA Masters",
       "match_date": "2026-06-11",
-      "teams": "BOOM v ANB",
-      "sups": "Nautilus/Milio",
-      "kills": 35,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-06-11",
-      "teams": "BOOM v ANB",
-      "sups": "Rell/Bard",
-      "kills": 30,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-06-11",
       "teams": "MISA v UCAM",
       "sups": "Karma/Seraphine",
       "kills": 23,
@@ -297,6 +281,22 @@
       "sups": "Karma/Seraphine",
       "kills": 33,
       "trigger": "2peel"
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-11",
+      "teams": "GL v G2N",
+      "sups": "Renata/Alistar",
+      "kills": 33,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-06-11",
+      "teams": "EWI v HMB",
+      "sups": "Seraphine/Bard",
+      "kills": 36,
+      "trigger": "1peel+flex"
     }
   ]
 }

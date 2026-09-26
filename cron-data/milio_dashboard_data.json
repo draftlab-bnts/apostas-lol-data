@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-25T16:18:07.069Z",
+  "generated_at": "2026-09-26T15:28:10.879Z",
   "source": "híbrido: results.json (majors) + Supabase (LFL + picks completos por game_id)",
   "range": [
     "2026-04-08",
-    "2026-09-20"
+    "2026-09-25"
   ],
-  "milio_count": 245,
+  "milio_count": 246,
   "games_with_full_picks": 118,
-  "baseline_under_hit_pct": 68.2,
+  "baseline_under_hit_pct": 68.3,
   "by_league": {
     "LPL": 91,
     "LCK": 60,
     "LEC": 34,
     "CBLOL": 28,
-    "LCS": 28,
+    "LCS": 29,
     "LFL": 4
   },
   "flags": {
@@ -7102,6 +7102,31 @@
       "fair_source": "formula(team+team)/2",
       "trigger": "2peel",
       "game_id": "115565004607949395",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-25",
+      "league": "LCS",
+      "map": 1,
+      "team_blue": "SR",
+      "team_red": "FLY",
+      "milio_side": "blue",
+      "milio_team": "SR",
+      "opp_team": "FLY",
+      "opp_sup": "Karma",
+      "sup_blue": "Milio",
+      "sup_red": "Karma",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Karma"
+      },
+      "total_kills": 17,
+      "fair": 24.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115565004607949412",
       "src": "results.json"
     }
   ]

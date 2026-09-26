@@ -1,0 +1,36 @@
+{
+  "date": "2026-09-26",
+  "captures": [
+    {
+      "captured_at": "2026-09-26T15:21:57.571Z",
+      "ligas": [
+        "LCK",
+        "LPL"
+      ],
+      "fair_lines": []
+    },
+    {
+      "captured_at": "2026-09-26T15:21:57.959Z",
+      "ligas": [
+        "LEC",
+        "CBLOL"
+      ],
+      "fair_lines": [
+        {
+          "league": "CBLOL",
+          "league_id": "98767991332355509",
+          "event_id": "115565671526468635",
+          "start_time": "2026-09-26T16:00:00Z",
+          "team_a": "RED",
+          "team_b": "FUR",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        }
+      ]
+    }
+  ]
+}

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-25T16:18:06.064Z",
+  "generated_at": "2026-09-26T15:28:09.067Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -184,16 +184,16 @@
       "n_games": 54
     },
     "FlyQuest": {
-      "avg_kills": 27.12,
-      "n_games": 51
+      "avg_kills": 26.63,
+      "n_games": 56
     },
     "Dignitas": {
       "avg_kills": 25.74,
       "n_games": 34
     },
     "Shopify Rebellion": {
-      "avg_kills": 25.95,
-      "n_games": 44
+      "avg_kills": 25.51,
+      "n_games": 49
     },
     "LYON": {
       "avg_kills": 26.54,
@@ -281,7 +281,7 @@
     "LCK": 14.51,
     "LPL": 14.52,
     "CBLOL": 13.29,
-    "LCS": 13.05,
+    "LCS": 12.99,
     "LFL": 16.27,
     "LES": 15.83
   }
