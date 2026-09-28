@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:10:59.178Z",
+  "generated_at": "2026-09-28T19:05:50.300Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -148,16 +148,16 @@
       "n_games": 55
     },
     "LOUD": {
-      "avg_kills": 26.87,
-      "n_games": 46
+      "avg_kills": 27.04,
+      "n_games": 51
     },
     "paiN Gaming": {
       "avg_kills": 26.52,
       "n_games": 42
     },
     "Los Grandes": {
-      "avg_kills": 27.93,
-      "n_games": 59
+      "avg_kills": 27.98,
+      "n_games": 64
     },
     "Leviatan Esports": {
       "avg_kills": 25.96,
@@ -180,8 +180,8 @@
       "n_games": 46
     },
     "TL": {
-      "avg_kills": 24.94,
-      "n_games": 54
+      "avg_kills": 25.07,
+      "n_games": 58
     },
     "FlyQuest": {
       "avg_kills": 26.63,
@@ -200,8 +200,8 @@
       "n_games": 52
     },
     "C9": {
-      "avg_kills": 25.62,
-      "n_games": 53
+      "avg_kills": 25.7,
+      "n_games": 57
     },
     "Karmine Corp Blue": {
       "avg_kills": 34.42,
@@ -280,8 +280,8 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.32,
-    "LCS": 12.96,
+    "CBLOL": 13.34,
+    "LCS": 12.97,
     "LFL": 16.27,
     "LES": 15.83
   }

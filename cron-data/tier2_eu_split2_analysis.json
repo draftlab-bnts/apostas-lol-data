@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-27T16:20:38.171Z",
+  "generated_at": "2026-09-28T19:15:33.503Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,51 +16,51 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1440,
+    "games_analyzed": 1456,
     "2peel": {
-      "n": 291,
-      "hit": 43,
-      "profit": -5975,
-      "roi": -20.5,
+      "n": 299,
+      "hit": 42.1,
+      "profit": -6590,
+      "roi": -22,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 160,
+      "n": 162,
       "hit": 46.9,
-      "profit": -2125,
-      "roi": -13.3,
+      "profit": -2140,
+      "roi": -13.2,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 451,
-      "hit": 44.3,
-      "profit": -8100,
-      "roi": -18,
+      "n": 461,
+      "hit": 43.8,
+      "profit": -8730,
+      "roi": -18.9,
       "breakeven": 54.1
     }
   },
   "by_league": {
     "EMEA Masters": {
-      "total_games": 190,
+      "total_games": 206,
       "2peel": {
-        "n": 50,
-        "hit": 52,
-        "profit": -190,
-        "roi": -3.8,
+        "n": 58,
+        "hit": 46.6,
+        "profit": -805,
+        "roi": -13.9,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 29,
-        "hit": 41.4,
-        "profit": -680,
-        "roi": -23.4,
+        "n": 31,
+        "hit": 41.9,
+        "profit": -695,
+        "roi": -22.4,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 79,
-        "hit": 48.1,
-        "profit": -870,
-        "roi": -11,
+        "n": 89,
+        "hit": 44.9,
+        "profit": -1500,
+        "roi": -16.9,
         "breakeven": 54.1
       }
     },
@@ -260,43 +260,43 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
-      "match_date": "2026-09-21",
-      "teams": "USE v OTS",
-      "sups": "Renata/Rell",
-      "kills": 29,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-09-21",
-      "teams": "USE v OTS",
-      "sups": "Karma/Seraphine",
+      "match_date": "2026-09-26",
+      "teams": "ESB v HRTS",
+      "sups": "Milio/Karma",
       "kills": 27,
       "trigger": "2peel"
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-09-21",
-      "teams": "SU v VER",
-      "sups": "Milio/Seraphine",
-      "kills": 19,
-      "trigger": "2peel"
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-09-21",
-      "teams": "SU v VER",
+      "match_date": "2026-09-26",
+      "teams": "TP v SU",
       "sups": "Lulu/Bard",
-      "kills": 42,
+      "kills": 27,
       "trigger": "1peel+flex"
     },
     {
       "league": "EMEA Masters",
-      "match_date": "2026-09-21",
-      "teams": "BBK v BAR",
+      "match_date": "2026-09-26",
+      "teams": "TSC v ANB",
       "sups": "Lulu/Milio",
-      "kills": 40,
+      "kills": 23,
       "trigger": "2peel"
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-09-26",
+      "teams": "USE v PCF",
+      "sups": "Renata/Seraphine",
+      "kills": 41,
+      "trigger": "2peel"
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-09-26",
+      "teams": "GSMC v BOOM",
+      "sups": "Nautilus/Karma",
+      "kills": 45,
+      "trigger": null
     }
   ]
 }
