@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-28T19:05:50.300Z",
+  "generated_at": "2026-09-29T17:25:57.533Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -171,6 +171,14 @@
       "avg_kills": 26.75,
       "n_games": 52
     },
+    "Golden Lions": {
+      "avg_kills": 24.33,
+      "n_games": 3
+    },
+    "KaBuM! Eports": {
+      "avg_kills": 24.33,
+      "n_games": 3
+    },
     "Disguised": {
       "avg_kills": 28.27,
       "n_games": 30
@@ -280,7 +288,7 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.34,
+    "CBLOL": 13.32,
     "LCS": 12.97,
     "LFL": 16.27,
     "LES": 15.83
