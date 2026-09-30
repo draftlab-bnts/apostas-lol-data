@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-29T17:25:57.533Z",
+  "generated_at": "2026-09-30T17:23:15.878Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -179,6 +179,14 @@
       "avg_kills": 24.33,
       "n_games": 3
     },
+    "Estral Esports": {
+      "avg_kills": 39.67,
+      "n_games": 3
+    },
+    "9z Globant": {
+      "avg_kills": 39.67,
+      "n_games": 3
+    },
     "Disguised": {
       "avg_kills": 28.27,
       "n_games": 30
@@ -288,7 +296,7 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.32,
+    "CBLOL": 13.42,
     "LCS": 12.97,
     "LFL": 16.27,
     "LES": 15.83
