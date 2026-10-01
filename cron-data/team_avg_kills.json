@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-30T17:23:15.878Z",
+  "generated_at": "2026-10-01T17:51:39.792Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -156,8 +156,8 @@
       "n_games": 42
     },
     "Los Grandes": {
-      "avg_kills": 27.98,
-      "n_games": 64
+      "avg_kills": 28.21,
+      "n_games": 67
     },
     "Leviatan Esports": {
       "avg_kills": 25.96,
@@ -176,8 +176,8 @@
       "n_games": 3
     },
     "KaBuM! Eports": {
-      "avg_kills": 24.33,
-      "n_games": 3
+      "avg_kills": 28.67,
+      "n_games": 6
     },
     "Estral Esports": {
       "avg_kills": 39.67,
@@ -296,7 +296,7 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.42,
+    "CBLOL": 13.47,
     "LCS": 12.97,
     "LFL": 16.27,
     "LES": 15.83
