@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-01T17:51:39.792Z",
+  "generated_at": "2026-10-02T17:10:32.676Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -156,8 +156,8 @@
       "n_games": 42
     },
     "Los Grandes": {
-      "avg_kills": 28.21,
-      "n_games": 67
+      "avg_kills": 27.98,
+      "n_games": 64
     },
     "Leviatan Esports": {
       "avg_kills": 25.96,
@@ -171,21 +171,13 @@
       "avg_kills": 26.75,
       "n_games": 52
     },
-    "Golden Lions": {
-      "avg_kills": 24.33,
-      "n_games": 3
+    "LYON": {
+      "avg_kills": 26.27,
+      "n_games": 52
     },
-    "KaBuM! Eports": {
-      "avg_kills": 28.67,
-      "n_games": 6
-    },
-    "Estral Esports": {
-      "avg_kills": 39.67,
-      "n_games": 3
-    },
-    "9z Globant": {
-      "avg_kills": 39.67,
-      "n_games": 3
+    "C9": {
+      "avg_kills": 25.7,
+      "n_games": 57
     },
     "Disguised": {
       "avg_kills": 28.27,
@@ -210,14 +202,6 @@
     "Shopify Rebellion": {
       "avg_kills": 25.32,
       "n_games": 53
-    },
-    "LYON": {
-      "avg_kills": 26.27,
-      "n_games": 52
-    },
-    "C9": {
-      "avg_kills": 25.7,
-      "n_games": 57
     },
     "Karmine Corp Blue": {
       "avg_kills": 34.42,
@@ -296,7 +280,7 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.47,
+    "CBLOL": 13.34,
     "LCS": 12.97,
     "LFL": 16.27,
     "LES": 15.83
