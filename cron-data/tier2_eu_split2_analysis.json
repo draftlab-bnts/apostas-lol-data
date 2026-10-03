@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-02T17:20:43.852Z",
+  "generated_at": "2026-10-03T15:34:47.133Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,51 +16,51 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1540,
+    "games_analyzed": 1550,
     "2peel": {
-      "n": 331,
-      "hit": 42.6,
-      "profit": -7015,
-      "roi": -21.2,
+      "n": 334,
+      "hit": 42.5,
+      "profit": -7130,
+      "roi": -21.3,
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 182,
+      "n": 184,
       "hit": 47.3,
-      "profit": -2290,
-      "roi": -12.6,
+      "profit": -2305,
+      "roi": -12.5,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 513,
+      "n": 518,
       "hit": 44.2,
-      "profit": -9305,
-      "roi": -18.1,
+      "profit": -9435,
+      "roi": -18.2,
       "breakeven": 54.1
     }
   },
   "by_league": {
     "EMEA Masters": {
-      "total_games": 290,
+      "total_games": 300,
       "2peel": {
-        "n": 90,
-        "hit": 46.7,
-        "profit": -1230,
-        "roi": -13.7,
+        "n": 93,
+        "hit": 46.2,
+        "profit": -1345,
+        "roi": -14.5,
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 51,
-        "hit": 45.1,
-        "profit": -845,
-        "roi": -16.6,
+        "n": 53,
+        "hit": 45.3,
+        "profit": -860,
+        "roi": -16.2,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 141,
-        "hit": 46.1,
-        "profit": -2075,
-        "roi": -14.7,
+        "n": 146,
+        "hit": 45.9,
+        "profit": -2205,
+        "roi": -15.1,
         "breakeven": 54.1
       }
     },
@@ -260,6 +260,14 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
+      "match_date": "2026-09-27",
+      "teams": "GSMC v MGZ",
+      "sups": "Bard/Pantheon",
+      "kills": 39,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
       "match_date": "2026-09-28",
       "teams": "ANB v SC",
       "sups": "Lulu/Nautilus",
@@ -288,14 +296,6 @@
       "teams": "LDS v ESB",
       "sups": "Milio/Nautilus",
       "kills": 45,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-09-28",
-      "teams": "JSK v TLNP",
-      "sups": "Bard/Nautilus",
-      "kills": 36,
       "trigger": null
     }
   ]

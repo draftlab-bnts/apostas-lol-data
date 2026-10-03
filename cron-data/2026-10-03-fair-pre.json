@@ -1,0 +1,36 @@
+{
+  "date": "2026-10-03",
+  "captures": [
+    {
+      "captured_at": "2026-10-03T15:24:41.422Z",
+      "ligas": [
+        "LCK",
+        "LPL"
+      ],
+      "fair_lines": []
+    },
+    {
+      "captured_at": "2026-10-03T15:24:41.761Z",
+      "ligas": [
+        "LEC",
+        "CBLOL"
+      ],
+      "fair_lines": [
+        {
+          "league": "CBLOL",
+          "league_id": "98767991332355509",
+          "event_id": "115565671526468641",
+          "start_time": "2026-10-03T16:00:00Z",
+          "team_a": "FUR",
+          "team_b": "LOUD",
+          "team_a_avg": null,
+          "team_b_avg": null,
+          "fair_formula": null,
+          "fair_pinnacle": null,
+          "fair_source": "unavailable",
+          "bo": 5
+        }
+      ]
+    }
+  ]
+}
