@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:34:47.133Z",
+  "generated_at": "2026-10-04T16:20:41.676Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -260,14 +260,6 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
-      "match_date": "2026-09-27",
-      "teams": "GSMC v MGZ",
-      "sups": "Bard/Pantheon",
-      "kills": 39,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
       "match_date": "2026-09-28",
       "teams": "ANB v SC",
       "sups": "Lulu/Nautilus",
@@ -296,6 +288,14 @@
       "teams": "LDS v ESB",
       "sups": "Milio/Nautilus",
       "kills": 45,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
+      "match_date": "2026-09-28",
+      "teams": "JSK v TLNP",
+      "sups": "Bard/Nautilus",
+      "kills": 36,
       "trigger": null
     }
   ]

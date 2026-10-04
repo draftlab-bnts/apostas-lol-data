@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-03T15:28:57.140Z",
+  "generated_at": "2026-10-04T16:14:46.742Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -148,8 +148,8 @@
       "n_games": 55
     },
     "LOUD": {
-      "avg_kills": 27.04,
-      "n_games": 51
+      "avg_kills": 27.07,
+      "n_games": 54
     },
     "paiN Gaming": {
       "avg_kills": 26.52,
@@ -168,16 +168,16 @@
       "n_games": 45
     },
     "FURIA": {
-      "avg_kills": 26.75,
-      "n_games": 52
+      "avg_kills": 26.8,
+      "n_games": 55
     },
     "LYON": {
-      "avg_kills": 26.27,
-      "n_games": 52
+      "avg_kills": 26.2,
+      "n_games": 56
     },
     "C9": {
-      "avg_kills": 25.7,
-      "n_games": 57
+      "avg_kills": 25.67,
+      "n_games": 61
     },
     "Disguised": {
       "avg_kills": 28.27,
@@ -280,8 +280,8 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.34,
-    "LCS": 12.97,
+    "CBLOL": 13.35,
+    "LCS": 12.96,
     "LFL": 16.27,
     "LES": 15.83
   }
