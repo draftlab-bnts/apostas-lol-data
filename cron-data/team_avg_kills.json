@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-04T16:14:46.742Z",
+  "generated_at": "2026-10-06T17:40:49.361Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -172,8 +172,8 @@
       "n_games": 55
     },
     "LYON": {
-      "avg_kills": 26.2,
-      "n_games": 56
+      "avg_kills": 25.95,
+      "n_games": 60
     },
     "C9": {
       "avg_kills": 25.67,
@@ -188,8 +188,8 @@
       "n_games": 46
     },
     "TL": {
-      "avg_kills": 25.07,
-      "n_games": 58
+      "avg_kills": 24.9,
+      "n_games": 62
     },
     "FlyQuest": {
       "avg_kills": 26.63,
@@ -281,7 +281,7 @@
     "LCK": 14.51,
     "LPL": 14.52,
     "CBLOL": 13.35,
-    "LCS": 12.96,
+    "LCS": 12.93,
     "LFL": 16.27,
     "LES": 15.83
   }
