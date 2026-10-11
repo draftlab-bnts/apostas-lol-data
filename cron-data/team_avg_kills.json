@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:45:10.042Z",
+  "generated_at": "2026-10-11T17:06:23.076Z",
   "split_start": "2026-04-01",
   "fair_adjustment": 0,
   "teams": {
@@ -156,8 +156,8 @@
       "n_games": 42
     },
     "Los Grandes": {
-      "avg_kills": 27.98,
-      "n_games": 64
+      "avg_kills": 27.49,
+      "n_games": 69
     },
     "Leviatan Esports": {
       "avg_kills": 25.96,
@@ -168,8 +168,8 @@
       "n_games": 45
     },
     "FURIA": {
-      "avg_kills": 26.8,
-      "n_games": 55
+      "avg_kills": 26.33,
+      "n_games": 60
     },
     "LYON": {
       "avg_kills": 25.95,
@@ -280,7 +280,7 @@
     "LEC": 13.99,
     "LCK": 14.51,
     "LPL": 14.52,
-    "CBLOL": 13.35,
+    "CBLOL": 13.28,
     "LCS": 12.93,
     "LFL": 16.27,
     "LES": 15.83

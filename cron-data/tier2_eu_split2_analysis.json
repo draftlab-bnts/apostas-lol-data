@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-10T16:57:03.975Z",
+  "generated_at": "2026-10-11T17:14:10.589Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,12 +16,12 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1598,
+    "games_analyzed": 1605,
     "2peel": {
-      "n": 348,
-      "hit": 44,
-      "profit": -6495,
-      "roi": -18.7,
+      "n": 351,
+      "hit": 44.2,
+      "profit": -6425,
+      "roi": -18.3,
       "breakeven": 54.1
     },
     "1peel+flex": {
@@ -32,21 +32,21 @@
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 544,
-      "hit": 44.9,
-      "profit": -9260,
-      "roi": -17,
+      "n": 547,
+      "hit": 45,
+      "profit": -9190,
+      "roi": -16.8,
       "breakeven": 54.1
     }
   },
   "by_league": {
     "EMEA Masters": {
-      "total_games": 348,
+      "total_games": 355,
       "2peel": {
-        "n": 107,
-        "hit": 50.5,
-        "profit": -710,
-        "roi": -6.6,
+        "n": 110,
+        "hit": 50.9,
+        "profit": -640,
+        "roi": -5.8,
         "breakeven": 54.1
       },
       "1peel+flex": {
@@ -57,10 +57,10 @@
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 172,
-        "hit": 47.7,
-        "profit": -2030,
-        "roi": -11.8,
+        "n": 175,
+        "hit": 48,
+        "profit": -1960,
+        "roi": -11.2,
         "breakeven": 54.1
       }
     },
@@ -260,6 +260,14 @@
   "games_sample": [
     {
       "league": "EMEA Masters",
+      "match_date": "2026-09-27",
+      "teams": "GSMC v MGZ",
+      "sups": "Bard/Pantheon",
+      "kills": 39,
+      "trigger": null
+    },
+    {
+      "league": "EMEA Masters",
       "match_date": "2026-09-28",
       "teams": "ANB v SC",
       "sups": "Lulu/Nautilus",
@@ -288,14 +296,6 @@
       "teams": "LDS v ESB",
       "sups": "Milio/Nautilus",
       "kills": 45,
-      "trigger": null
-    },
-    {
-      "league": "EMEA Masters",
-      "match_date": "2026-09-28",
-      "teams": "JSK v TLNP",
-      "sups": "Bard/Nautilus",
-      "kills": 36,
       "trigger": null
     }
   ]
