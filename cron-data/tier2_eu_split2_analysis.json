@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-12T20:54:32.056Z",
+  "generated_at": "2026-10-13T18:49:06.478Z",
   "split_start": "2026-04-01",
   "line": 29.5,
   "stake": 100,
@@ -16,7 +16,7 @@
     "Rift Legends"
   ],
   "totals": {
-    "games_analyzed": 1605,
+    "games_analyzed": 1608,
     "2peel": {
       "n": 351,
       "hit": 44.2,
@@ -25,23 +25,23 @@
       "breakeven": 54.1
     },
     "1peel+flex": {
-      "n": 196,
-      "hit": 46.4,
-      "profit": -2765,
-      "roi": -14.1,
+      "n": 197,
+      "hit": 46.2,
+      "profit": -2865,
+      "roi": -14.5,
       "breakeven": 54.1
     },
     "method_total": {
-      "n": 547,
-      "hit": 45,
-      "profit": -9190,
-      "roi": -16.8,
+      "n": 548,
+      "hit": 44.9,
+      "profit": -9290,
+      "roi": -17,
       "breakeven": 54.1
     }
   },
   "by_league": {
     "EMEA Masters": {
-      "total_games": 355,
+      "total_games": 358,
       "2peel": {
         "n": 110,
         "hit": 50.9,
@@ -50,17 +50,17 @@
         "breakeven": 54.1
       },
       "1peel+flex": {
-        "n": 65,
-        "hit": 43.1,
-        "profit": -1320,
-        "roi": -20.3,
+        "n": 66,
+        "hit": 42.4,
+        "profit": -1420,
+        "roi": -21.5,
         "breakeven": 54.1
       },
       "method_total": {
-        "n": 175,
-        "hit": 48,
-        "profit": -1960,
-        "roi": -11.2,
+        "n": 176,
+        "hit": 47.7,
+        "profit": -2060,
+        "roi": -11.7,
         "breakeven": 54.1
       }
     },
