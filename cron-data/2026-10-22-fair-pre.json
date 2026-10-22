@@ -1,0 +1,21 @@
+{
+  "date": "2026-10-22",
+  "captures": [
+    {
+      "captured_at": "2026-10-22T16:17:03.212Z",
+      "ligas": [
+        "LCK",
+        "LPL"
+      ],
+      "fair_lines": []
+    },
+    {
+      "captured_at": "2026-10-22T16:17:04.055Z",
+      "ligas": [
+        "LEC",
+        "CBLOL"
+      ],
+      "fair_lines": []
+    }
+  ]
+}
