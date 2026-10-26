@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-09-29T17:25:58.713Z",
+  "generated_at": "2026-10-26T18:00:51.991Z",
   "source": "híbrido: results.json (majors) + Supabase (LFL + picks completos por game_id)",
   "range": [
     "2026-04-08",
-    "2026-09-28"
+    "2026-10-03"
   ],
-  "milio_count": 250,
+  "milio_count": 253,
   "games_with_full_picks": 118,
-  "baseline_under_hit_pct": 68.4,
+  "baseline_under_hit_pct": 68,
   "by_league": {
     "LPL": 91,
     "LCK": 60,
     "LEC": 34,
-    "CBLOL": 31,
-    "LCS": 30,
+    "CBLOL": 33,
+    "LCS": 31,
     "LFL": 4
   },
   "flags": {
@@ -7227,6 +7227,81 @@
       "fair_source": "formula(league+league)/2",
       "trigger": "2peel",
       "game_id": "117275453885353207",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-09-30",
+      "league": "CBLOL",
+      "map": 2,
+      "team_blue": "LOS",
+      "team_red": "KBM",
+      "milio_side": "red",
+      "milio_team": "KBM",
+      "opp_team": "LOS",
+      "opp_sup": "Karma",
+      "sup_blue": "Karma",
+      "sup_red": "Milio",
+      "blue_picks": {
+        "support": "Karma"
+      },
+      "red_picks": {
+        "support": "Milio"
+      },
+      "total_kills": 26,
+      "fair": 28.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "117275453885353220",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-10-03",
+      "league": "CBLOL",
+      "map": 3,
+      "team_blue": "FUR",
+      "team_red": "LOUD",
+      "milio_side": "red",
+      "milio_team": "LOUD",
+      "opp_team": "FUR",
+      "opp_sup": "Yuumi",
+      "sup_blue": "Yuumi",
+      "sup_red": "Milio",
+      "blue_picks": {
+        "support": "Yuumi"
+      },
+      "red_picks": {
+        "support": "Milio"
+      },
+      "total_kills": 28,
+      "fair": 27.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115565671526468644",
+      "src": "results.json"
+    },
+    {
+      "date": "2026-10-03",
+      "league": "LCS",
+      "map": 1,
+      "team_blue": "LYON",
+      "team_red": "C9",
+      "milio_side": "blue",
+      "milio_team": "LYON",
+      "opp_team": "C9",
+      "opp_sup": "Karma",
+      "sup_blue": "Milio",
+      "sup_red": "Karma",
+      "blue_picks": {
+        "support": "Milio"
+      },
+      "red_picks": {
+        "support": "Karma"
+      },
+      "total_kills": 26,
+      "fair": 24.5,
+      "fair_source": "formula(team+team)/2",
+      "trigger": "2peel",
+      "game_id": "115565004607949424",
       "src": "results.json"
     }
   ]
